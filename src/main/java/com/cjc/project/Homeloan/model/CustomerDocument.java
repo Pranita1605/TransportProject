@@ -31,6 +31,8 @@ public class CustomerDocument {
 	private String guarantorname;
 	private long guarantoraadharcard;
 	private String guarantormail;
+
+private String ppp;
     private String ifsc;
 	@Lob
 	private byte[]  kycProof;
