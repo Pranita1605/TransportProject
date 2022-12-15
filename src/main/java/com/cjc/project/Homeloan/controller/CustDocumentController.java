@@ -143,6 +143,8 @@ public class CustDocumentController {
     	c.setCustdoc(d);
     	
     	Customer c1=esi.SaveCustomer(c);
+
+System.out.println("add data");
        }
 		
 		
